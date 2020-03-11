@@ -4,7 +4,7 @@
   "description": "An updated tutorial on setting up recurring subscriptions with Stripe.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node init && node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
